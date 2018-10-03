@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth_Parmakizi</string>
+    <string name="title_activity_second">activity_second</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">identify yourself by placing finger on the scanner</string>
+    <string name="note">one fingerprint should be registered in device settings</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in</string>
+    <string name="activity_home_note">re-open the app to see the fingerprint auth screen again by closing this app</string>
+</resources>
